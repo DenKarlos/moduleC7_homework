@@ -1,0 +1,19 @@
+{
+  "name": "c7-tests",
+  "version": "1.0.0",
+  "description": "js testing examples",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^27.0.6"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.14.8",
+    "@babel/preset-env": "^7.14.8",
+    "babel-jest": "^27.0.6"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Denis",
+  "license": "ISC"
+}
